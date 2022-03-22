@@ -19,7 +19,7 @@ https://mutheuprecious.github.io/delanis-studios/
 ## Installation / Setup instruction
 * Open Terminal {Ctrl+Alt+T}
 
-* git clone ```https://github.com/mutheuprecious/Delani-Studios.git```
+* git clone ```https://github.com/mutheuprecious/delanis-studios.git```
 
 * cd Delani-Studio
 
