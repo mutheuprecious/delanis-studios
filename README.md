@@ -13,7 +13,7 @@ This project is a web application for Delani studio that shows details about the
 
 
 ## Live Page 
-https://mutheuprecious/Delani-Studios 
+https://mutheuprecious.github.io/delanis-studios/
 
 
 ## Installation / Setup instruction
