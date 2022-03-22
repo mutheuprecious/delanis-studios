@@ -1,4 +1,4 @@
-# delanis-studios
+
 # Delani-studios
 Delani studios
 # Delani-Studio
