@@ -1,0 +1,48 @@
+$(document).ready(function(){
+  $("#design-icon").click(function(){
+    $("#design-text").hide();
+    $("#design-icon").show();
+  });
+  $("#design-text").click(function(){
+    $("#design-icon").togggle();
+    $("#design-text").togggle();
+  });
+});
+
+$(document).ready(function(){
+  $("#development-icon").click(function(){
+    $("#development-text").hide();
+    $("#development-icon").show();
+  });
+  $("#development-text").click(function(){
+    $("#development-icon").togggle();
+    $("#development-icon").togggle();
+  });
+});
+
+$(document).ready(function(){
+  $("#product-icon").click(function(){
+    $("#product-text").hide();
+    $("#product-icon").show();
+  });
+  $("#product-text").click(function(){
+    $("#product-icon").togggle();
+    $("#product-icon").togggle();
+  });
+  $("#submit").click(function(){
+    submit();
+    Event.preventDefault();
+});
+});
+
+
+function submit(){
+var name=document.getElementById("name").value;
+var messages = document.getElementById("message").value;
+if(name,messages == ''){
+  alert("Make sure all field are filled")
+}
+else{
+alert("Thank you for contacting us. we have recived your message" + ' ' + name );
+}
+};
