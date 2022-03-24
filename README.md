@@ -28,7 +28,6 @@ https://mutheuprecious.github.io/delanis-studios/
 ## Technologies Used
 
 * [HTML5](https://github.com/topics/html5)
-* [CSS](https://github.com/topics/css3)
 * [Bootstrap](https://github.com/topics/bootstrap)
 * [jQuery](https://github.com/topics/javascript)
 * markdown
